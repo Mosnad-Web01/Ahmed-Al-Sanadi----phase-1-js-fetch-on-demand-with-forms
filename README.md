@@ -13,7 +13,7 @@ content. This is a common practice in modern web development — when you visit 
 website, that site may fetch data from a variety of places right as the page
 loads. Sites often retrieve data from a backend (like your account info) while
 also retrieving data from other sources like APIs. From a user's perspective, it
-all just loads when they visit the site.
+all just loads when they visit the site .
 
 Now, we're going to look at a slightly different scenario — retrieving data
 based on user input.
